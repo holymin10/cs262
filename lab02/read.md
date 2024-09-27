@@ -1,4 +1,5 @@
 Sungmin Choi
+Lab 02
 
 a. The main component function returns a View component that contains several nested components that include: Container View, Image Container View, Footer Container View that contains two Buttons (Choose a photo, Use this photo) It also contains a StatusBar.
 
