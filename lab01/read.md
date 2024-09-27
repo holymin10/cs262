@@ -6,7 +6,7 @@
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
 \f0\fs24 \cf0 Sungmin Choi\
-CS 262\
+CS 262 Lab 01\
 \
 The app/(tabs)/index.tsx has the files containing code to change the index part of the app.\
 \
