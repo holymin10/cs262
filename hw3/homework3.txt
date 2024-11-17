@@ -1,0 +1,9 @@
+
+# What are the (active) URLs for your data service?
+Unavailable due to disabled student account
+# Which of these endpoints implement actions that are idempotent? nullipotent? (Had to see from a friend because that is what Professor Vanderlinden told me to do.)
+/username is both when youre creating, but in the web they are all read, which means that it is idempotent
+# Is the service RESTful? If not, why not? If so, what key features make it RESTful.
+Yes, because we use put, post, delete, and read, and we use jsons, and urls, and its stateless
+# Is there any evidence in your implementation of an impedance mismatch?
+Yes it works fine for what I saw.
